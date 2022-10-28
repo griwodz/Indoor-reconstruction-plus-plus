@@ -1,4 +1,7 @@
 # Indoor-reconstruction-plus-plus
+
+This is a branch of Henry Hansen's repository at https://github.com/henryhansen23/Indoor-reconstruction-plus-plus
+
 Indoor reconstruction with Velodyne Lidar and IMU.
 
 ## Notes:
